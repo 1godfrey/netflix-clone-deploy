@@ -1,6 +1,6 @@
 !!! DEMO ACCOUNT: username: test3@gmail.com password: 123456 (You could also create a new account and you should be able to log in with those new credentials feel free to try that too) !!!
  
-This is a netflix clone app made with mainly Next.js, tailwind.css and Prisma/MongoDb
+This is a netflix clone app made with mainly Next.js, tailwind.css and Prisma/MongoDb. The main language used was Typescript. Some other languages used were Javascript, HTML/CSS.
 
 
 
